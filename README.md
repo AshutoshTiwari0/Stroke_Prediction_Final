@@ -62,4 +62,4 @@ Please note that this app is intended for informational purposes only and should
 
 
 
-
+LIVE LINK->https://strokepredictionfinal-mb6c3mmmvwqejjei5d2appc.streamlit.app/
