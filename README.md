@@ -52,7 +52,7 @@ We express our gratitude to the original dataset providers and the open-source c
 
 Please note that this app is intended for informational purposes only and should not be considered a substitute for professional medical advice. Always consult with 1  a healthcare professional 2  for any health concerns.
 
-
+<h1>Do check out [kenshi2727](https://github.com/Kenshi2727). Without him the deployment was not possible.</h1>
 <b>Web App Preview</b>
 ![image](https://github.com/user-attachments/assets/901e29a8-e0a1-4caa-919e-62be65147977)
 ![image](https://github.com/user-attachments/assets/b7b5166d-ea70-420e-a578-fad7f03d9a2e)
